@@ -11,3 +11,5 @@ If your commit follows mutliple of these conventions, it is recommended to make 
 The article covers some of the recommended conventions used in writing Git commits. It covers not only terminology but also formatting, attemtping to maximize the number of people who can understand its purpose. Given software development nearly never occurs within in a solitary environment (unless one takes freelancing to the extreme), writing comprehensible commits is vital. 
 
 The continued growth and maturation of the industry brings with it the formalization of practices as projects reach enterprise scales. Dealing with legacy code would therefore become increasingly the norm, and without established practices maintaining them would become extremely difficult (even moreso than even at present).
+
+Comment by Gloria Z: This is a very fitting article, considering we are starting to work with git! 
